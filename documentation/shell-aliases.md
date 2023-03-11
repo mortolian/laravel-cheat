@@ -16,6 +16,8 @@ alias art='[ -f artisan ] && php artisan.php'
 alias sail='[ -f sail ] && sail ||  vendor/bin/sail'
 ```
 
+[Sail Documentation](https://laravel.com/docs/10.x/sail)
+
 ### Laravel Pint
 
 ```shell
@@ -27,3 +29,5 @@ alias pint-fix='[ -f pint ] && pint || vendor/bin/pint'
 # Laravel Pint - Only display problems
 alias pint-fix='[ -f pint ] && sh pint --test -v || sh vendor/bin/pint --test -v'
 ```
+
+[Pint Documentation](https://laravel.com/docs/10.x/pint)

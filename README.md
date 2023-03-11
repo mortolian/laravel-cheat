@@ -17,13 +17,14 @@ A very simple repo with some Laravel cheats to get the repetitive work out of th
 
 ## Quick Setup Checklist
 
-Something todo.
+- [ ] Create GIT repo for the project.
+- [ ]
 
 ---
 
 ## Contribution
 
-If you are well versed in Laravel and see something that can be done faster don't hesitate to submit a pull request.
+If you are well versed in Laravel and see something that can be done faster don't hesitate to submit a pull request. Your oppinion is always welcome.
 
 ## Maintainers
 
